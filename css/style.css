@@ -1,0 +1,16 @@
+
+html,body{
+    min-height:100%;
+      background:linear-gradient( #FFFFFF, #291528)
+          /* margin: 0; */
+      /* padding: 0; */
+}
+.order-container {
+    min-height: fit-content;
+    height: 100px; 
+    width: 100%;
+    background-color: #000000
+}
+.header{
+    color: #FFFFFF;
+}
